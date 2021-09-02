@@ -1,7 +1,5 @@
 # ExploringCUAD
-Exploratory analysis of the CUAD data set and associated legal annotations.
-
-This Repository contains the supporting analysis files for my final MSc DataScience Project.  
+This repository contains the supporting analysis files for my final MSc Data Science Project.  
 
 Project Abstract:
 
